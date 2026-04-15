@@ -10,4 +10,5 @@ Segment f: PA6\
 Segment g: PA7\
 c) Prikazovalnik ima skupno katodo.\
 e) Pravilnostna tabela:\
--Števka--a-b-c-d-e-f-g--PA15-PA14-PA13-PA12-PA11-PA10-PA9-
+-Števka--a-b-c-d-e-f-g--PA15-PA14-PA13-PA12-PA11-PA10-PA9-PA8-PA7-PA6-PA5-PA4-PA3-PA2-PA1-PA0--hexadecimal\
+---0---
