@@ -1,6 +1,6 @@
 # Vaja13-7segment-STM32L1
 
-PINOUT KONFIGURACIJA:
+PINOUT KONFIGURACIJA:\
 ![konfig](https://github.com/Hudi452/Vaja13-7segment-STM32L1/blob/main/Pinout_konfiguracija.png)
 
 2. b)\
