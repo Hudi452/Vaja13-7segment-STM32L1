@@ -22,4 +22,7 @@ e) Pravilnostna tabela:\
 ---8-----1-1-1-1-1-1-1---0----0----0----0----0----0----0---0---0---1---1---1---1---1---1---1----0X007F\
 ---9-----1-1-1-1-0-1-1---0----0----0----0----0----0----0---0---0---1---1---0---1---1---1---1----0X006F\
 3. e) ODR pomeni Output Data Register (register izhodnih podatkov). To je 16-bitni register, ki neposredno določa stanje (napetost) na pinih določenega porta (v tem primeru porta A). Če v določen bit registra vstavimo 1, pin nastavimo na napetost 3,3 V, če pa bit nastavimo na 0, ta pin nastavimo na napetost 0 V.\
-4.  e) Ko pritisnemo črno tipko na STM32, se STM32 resetira, kar pomeni, da se program začne izvajati od začetka. Na 7-segmentnem displayu se ponovno začne štetje od 0 do 9, ko pritisnemo na tipko reset.\
+4.  e) Ko pritisnemo črno tipko na STM32, se STM32 resetira, kar pomeni, da se program začne izvajati od začetka. Na 7-segmentnem displayu se ponovno začne štetje od 0 do 9, ko pritisnemo na tipko reset.
+
+Komentar na delovanje:\
+Projekt deluje po pričakovanjih. 7-segmentni display šteje od 0 do 9. To se ves čas, ko je STM32 priključen na napajanje ponavlja. 
