@@ -3,6 +3,9 @@
 PINOUT KONFIGURACIJA:\
 ![konfig](https://github.com/Hudi452/Vaja13-7segment-STM32L1/blob/main/Pinout_konfiguracija.png)
 
+VIDEO DELOVANJA:\
+![video](https://github.com/Hudi452/Vaja13-7segment-STM32L1/blob/main/Vaja13-MIN-ezgif.com-optimize.gif)
+
 2. b)\
 Segment a: PA0\
 Segment b: PA1\
